@@ -12,6 +12,7 @@ public class Prueba {
         System.out.println("ya mija");
         System.out.println("Entre gays");
         System.out.println("SIIIIIIIIIIIIIUUUUUUUU");
+
     }
     
 }
